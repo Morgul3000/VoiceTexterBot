@@ -11,9 +11,9 @@
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0-preview.3.22175.4" />
     <PackageReference Include="Telegram.Bot" Version="18.0.0-alpha.1" />
     <PackageReference Include="Telegram.Bot.Extensions.Polling" Version="2.0.0-alpha.1" />
-	  <Using Include="Microsoft.Extensions.Hosting"/>
-	  <Using Include="Microsoft.Extensions.DependencyInjection"/>
-	  <Using Include="Telegram.Bot"/>
+	  <Using Include="Microsoft.Extensions.Hosting" />
+	  <Using Include="Microsoft.Extensions.DependencyInjection" />
+	  <Using Include="Telegram.Bot" />
   </ItemGroup>
 	
 
